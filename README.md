@@ -21,11 +21,12 @@ Feel free to fork and improve!
 
 ## Components Used
 
-- Arduino Uno board
-- L298N or dual H-bridge motor driver
-- 2x DC motors + wheels
-- IR sensors (A2 and A3 pins)
-- Ultrasonic sensor (HC-SR04)
-- Buzzer
-- LED indicator
-- Wires, breadboard, power supply
+- **Arduino Uno** (main controller)
+- **L298N Motor Driver** (dual H-bridge)
+- **2x DC Motors + Wheels** (for drive)
+- **IR Sensors** (line following, connected to A2 and A3)
+- **Ultrasonic Sensor (HC-SR04)** (obstacle detection)
+- **Buzzer** (sound alert)
+- **LED** (status indicator)
+- **Bluetooth Module (HC-05 or HC-06)** (wireless remote control)
+- Battery pack + chassis + jumper wires
