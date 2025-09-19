@@ -30,3 +30,11 @@ Feel free to fork and improve!
 - **LED** (status indicator)
 - **Bluetooth Module (HC-05 or HC-06)** (wireless remote control)
 - Battery pack + chassis + jumper wires
+
+## Control App (Bluetooth)
+
+To control the car wirelessly we used the following Android app:
+
+[Car Test V – Bluetooth Control App](https://play.google.com/store/apps/details?id=appinventor.ai_spiridakis84.car_testV)
+
+
